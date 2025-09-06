@@ -28,13 +28,13 @@ More information here: [WeekendTextEditor](https://github.com/weekend-game/weeke
 
 ### Programming language interpreter ([WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter))
 
-[Java](https://docs.oracle.com/javase/tutorial/index.html), [Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html) **(Single Document Interface)**, [WeekendTextEditor](https://github.com/weekend-game/weekendtexteditor) as an application template
+Java, Swing (Single Document Interface), [WeekendTextEditor](https://github.com/weekend-game/weekendtexteditor) as an application template
 
-I complicate the program. In fact, a programmer should fight complexity (Steve McConnell. Code Complete. Chapter 34: Themes in Software Craftsmanship), but this is true for program texts. And I complicate the task.
+I'm increasing the difficulty. In fact, a programmer should fight complexity (Steve McConnell. Code Complete. Chapter 34: Themes in Software Craftsmanship), but this is true for program texts. And I complicate the task.
 
-Creating your own programming language is a useful thing. Firstly, it is interesting. Secondly, it can be used, for example, for acceptance testing, that is, for writing acceptance tests. Or, for example... Have you tried to write a program for calculating wages? Some accruals, deductions, and all this depends on a huge number of conditions. Of course, you can take all this into account, program it. Or you can give the accountant a simple language for describing the calculation rules. The main thing is not to tell the accountant the words "programming language", but to call it "setting up" accruals and deductions. :)
+Creating your own programming language is a useful thing. Firstly, it is interesting. Secondly, it can be used, for example, for acceptance testing, that is, for writing acceptance tests (Robert C. Martin. Agile Software Development: Principles, Patterns, Practices. Chapter 4. Testing. "Acceptance  tests  are  programs  and  are  therefore  executable.  However, they  are usually written in a special scripting language created for customers of the application."). Or, for example... Have you tried to write a program for calculating wages? Some accruals, deductions, and all this depends on a huge number of conditions. Of course, you can take all this into account, program it. Or you can give the accountant a simple language for describing the calculation rules. The main thing is not to tell the accountant the words "programming language", but to call it "setting up" accruals and deductions. :)
 
-So, I take my editor and divide its central part into two parts: in the upper part I leave the editor, and in the lower part I output everything that my interpreter outputs. Then I add the Run menu with the Run and Stop items.
+So, I take my editor and divide its central part into two parts: in the upper part I leave the editor, and in the lower part I output everything that my interpreter outputs. Then I add the Run menu with the Run and Stop items...
 
 More details here: [WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter).
 
