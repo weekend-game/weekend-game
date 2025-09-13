@@ -4,7 +4,7 @@ English is not my native language. Sorry for the mistakes.</sub>
 
 ### Hello!
 
-My name is Yury. I am a programmer. In my work I use very exotic programming languages, DBMS and other technologies related to programming. Well, that's just how it turned out. I would like to try something that I don't encounter at work now.
+My name is Yury. I am a programmer. In my work I use very exotic programming languages, DBMS and other technologies related to programming. Well, that's just how it turned out. I would like to try something that I don't encounter at work now. See how it all developed here: [Diary](https://weekend-game.github.io/diary.htm)
 
 ### Viewer of unusual files ([BankViewer](https://github.com/weekend-game/bankviewer))
 
@@ -16,7 +16,7 @@ This is exactly what this program does. But it also allows you to understand how
 
 More details here: [BankViewer](https://github.com/weekend-game/bankviewer).
 
-### Text Editor ([WeekendTextEditor](https://github.com/weekend-game/weekendtexteditor))
+### Text editor ([WeekendTextEditor](https://github.com/weekend-game/weekendtexteditor))
 
 Java, Swing (Single Document Interface), [BankViewer](https://github.com/weekend-game/bankviewer) as an application template
 
