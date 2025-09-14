@@ -38,3 +38,12 @@ So, I take my editor and divide its central part into two parts: in the upper pa
 
 More details here: [WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter).
 
+### A game in a new language and its interpreter ([AspenForest](https://github.com/weekend-game/aspenforest))
+
+Weekend Game Language, [WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter)
+
+Since I have created some programming language, why not write something interesting in it, and at the same time feel what it is like to write in such a language. I will distract myself from algorithms and methods of writing interpreters and will write a program in the created language.
+
+It's a small text game. A knight walks through an aspen forest. He encounters different things and has to make decisions about how to act in a given situation. There is no music or graphics in the game. The current language implementation simply does not allow for anything like that. Although nothing prevents these features from being added. And if WeekendInterpreter is Hello World for interpreter developers, then AspenForest is Hello World for text games, plus an attempt to use a new (actually very old) language.
+
+More information here: [AspenForest](https://github.com/weekend-game/aspenforest).
