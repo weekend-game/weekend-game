@@ -4,7 +4,7 @@ English is not my native language. Sorry for the mistakes.</sub>
 
 ### Hello!
 
-My name is Yury. I am a programmer. In my work I use very exotic programming languages, DBMS and other technologies related to programming. Well, that's just how it turned out. I would like to try something that I don't encounter at work now. See how it all developed here: [Diary](https://weekend-game.github.io/diary.htm)
+My name is **Yury**. I am a programmer. In my work I use very exotic programming languages, DBMS and other technologies related to programming. Well, that's just how it turned out. I would like to try something that I don't encounter at work now. See how it all developed here: [Diary](https://weekend-game.github.io/diary.htm)
 
 ### Viewer of unusual files ([BankViewer](https://github.com/weekend-game/bankviewer))
 
@@ -38,7 +38,7 @@ So, I take my editor and divide its central part into two parts: in the upper pa
 
 More details here: [WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter).
 
-### A game in a new language and its interpreter ([AspenForest](https://github.com/weekend-game/aspenforest))
+### A game in a new language ([AspenForest](https://github.com/weekend-game/aspenforest))
 
 Weekend Game Language, [WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter)
 
@@ -47,3 +47,15 @@ Since I have created some programming language, why not write something interest
 It's a small text game. A knight walks through an aspen forest. He encounters different things and has to make decisions about how to act in a given situation. There is no music or graphics in the game. The current language implementation simply does not allow for anything like that. Although nothing prevents these features from being added. And if WeekendInterpreter is Hello World for interpreter developers, then AspenForest is Hello World for text games, plus an attempt to use a new (actually very old) language.
 
 More information here: [AspenForest](https://github.com/weekend-game/aspenforest).
+
+### Content Management System (CMS) ([WeekendCMS](https://github.com/weekend-game/weekendcms))
+Java, Swing, a few classes taken from previous projects
+
+I ran into a problem. On August 23, 2025, while relaxing on the beautiful Mediterranean coast in Side, I designed and implemented a template for my [website](https://weekend-game.github.io/index.htm). I planned to publish full descriptions of all the projects I publish here. And, well, it all worked out. I came up with a bilingual homepage, decided to dedicate a page in each language to each project (repository), and started a [diary](https://weekend-game.github.io/diary.htm). Yes, I haven't written everything I wanted on these pages yet, but I definitely will. And life goes on. So, I designed and implemented a game, albeit a small one, in my own programming language. And it's time to work on applications that work with various DBMSs. How much longer can I use the Proper class (anyone who's looked at projects knows what I mean)? The poor thing (I'm talking about the Proper class) must have suffered greatly. But all of this needs to have its own page on the website. Adding just one new page requires changes to all pages of the site. Sure, it's possible, but why?
+
+I created my own CMS (content management system) for my website. Problem solved! Sure, I could use a ready-made one, but which one? And how long would it take me to master it? Will I be able to create the site exactly the way I envisioned, set on the Mediterranean coast or something similar? So, the job is done: the CMS is created, and it works. As for further customization of this CMS to my needs, in my opinion, nothing compares to Java for flexibility.
+
+More details here: [WeekendCMS](https://github.com/weekend-game/weekendcms).
+
+### To be continued...
+
