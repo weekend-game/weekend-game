@@ -42,14 +42,14 @@ More details here: [WeekendInterpreter](https://github.com/weekend-game/weekendi
 
 Weekend Game Language, [WeekendInterpreter](https://github.com/weekend-game/weekendinterpreter)
 
-Since I have created some programming language, why not write something interesting in it, and at the same time feel what it is like to write in such a language. I will distract myself from algorithms and methods of writing interpreters and will write a program in the created language.
+Since I've created a [programming language](https://github.com/weekend-game/weekendinterpreter), why not write something interesting in it and experience what it's like to write in such a language? I'll take a break from algorithms and interpreter writing techniques and write a program in the language I created. 
 
-It's a small text game. A knight walks through an aspen forest. He encounters different things and has to make decisions about how to act in a given situation. There is no music or graphics in the game. The current language implementation simply does not allow for anything like that. Although nothing prevents these features from being added. And if WeekendInterpreter is Hello World for interpreter developers, then AspenForest is Hello World for text games, plus an attempt to use a new (actually very old) language.
+It's a small text-based game. A knight walks through an aspen forest. He meets different situations and must decide how to act in each one. The game has no music or graphics. The current language implementation simply doesn't allow for such features. However, nothing prevents them from being added. If WeekendInterpreter is Hello World for interpreter developers, then AspenForest is Hello World for text-based games, plus an attempt at using a new (actually very old) language.
 
 More information here: [AspenForest](https://github.com/weekend-game/aspenforest).
 
 ### Content Management System (CMS) ([WeekendCMS](https://github.com/weekend-game/weekendcms))
-Java, Swing, a few classes taken from previous projects
+Java, Swing, a few classes taken from previous projects (GBL, Loc, Mes, Proper)
 
 I ran into a problem. On August 23, 2025, while relaxing on the beautiful Mediterranean coast in Side, I designed and implemented a template for my [website](https://weekend-game.github.io/index.htm). I planned to publish full descriptions of all the projects I publish here. And, well, it all worked out. I came up with a bilingual homepage, decided to dedicate a page in each language to each project (repository), and started a [diary](https://weekend-game.github.io/diary.htm). Yes, I haven't written everything I wanted on these pages yet, but I definitely will. And life goes on. So, I designed and implemented a game, albeit a small one, in my own programming language. And it's time to work on applications that work with various DBMSs. How much longer can I use the Proper class (anyone who's looked at projects knows what I mean)? The poor thing (I'm talking about the Proper class) must have suffered greatly. But all of this needs to have its own page on the website. Adding just one new page requires changes to all pages of the site. Sure, it's possible, but why?
 
