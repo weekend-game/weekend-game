@@ -49,6 +49,7 @@ It's a small text-based game. A knight walks through an aspen forest. He meets d
 More information here: [AspenForest](https://github.com/weekend-game/aspenforest).
 
 ### Content Management System (CMS) ([WeekendCMS](https://github.com/weekend-game/weekendcms))
+
 Java, Swing, a few classes taken from previous projects (GBL, Loc, Mes, Proper)
 
 I ran into a problem. On August 23, 2025, while relaxing on the beautiful Mediterranean coast in Side, I designed and implemented a template for my [website](https://weekend-game.github.io/index.htm). I planned to publish full descriptions of all the projects I publish here. And, well, it all worked out. I came up with a bilingual homepage, decided to dedicate a page in each language to each project (repository), and started a [diary](https://weekend-game.github.io/diary.htm). Yes, I haven't written everything I wanted on these pages yet, but I definitely will. And life goes on. So, I designed and implemented a game, albeit a small one, in my own programming language. And it's time to work on applications that work with various DBMSs. How much longer can I use the Proper class (anyone who's looked at projects knows what I mean)? The poor thing (I'm talking about the Proper class) must have suffered greatly. But all of this needs to have its own page on the website. Adding just one new page requires changes to all pages of the site. Sure, it's possible, but why?
@@ -57,5 +58,12 @@ I created my own CMS (content management system) for my website. Problem solved!
 
 More details here: [WeekendCMS](https://github.com/weekend-game/weekendcms).
 
-### To be continued...
+### Seed Keeper ([SeedKeeper](https://github.com/weekend-game/seedkeeper))
 
+Java, JavaFX (Tabbed document interface), RDBMS Apache Derby
+
+Thanks to Swing, but I'll try JavaFX now. It's a six of one, half a dozen of the other, I suppose, but it's interesting to try. There will be a lot of data... and anyway, it's time to practice working with different DBMSs.
+
+More details here: [SeedKeeper](https://github.com/weekend-game/seedkeeper).
+
+### To be continued...
