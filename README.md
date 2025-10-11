@@ -60,9 +60,15 @@ More details here: [WeekendCMS](https://github.com/weekend-game/weekendcms).
 
 ### Seed Keeper ([SeedKeeper](https://github.com/weekend-game/seedkeeper))
 
-Java, JavaFX (Tabbed document interface), RDBMS Apache Derby
+Java, [JavaFX](https://openjfx.io/) (Tabbed document interface), DBMS [Apache Derby](https://db.apache.org/derby/)
 
 Thanks to Swing, but I'll try JavaFX now. It's a six of one, half a dozen of the other, I suppose, but it's interesting to try. There will be a lot of data... and anyway, it's time to practice working with different DBMSs.
+
+My wife gave me the idea for this app. She grows tomatoes, peppers, and other plants as a hobby. She buys packets of seeds and grows a few plants of each variety. Often, she has leftover seeds, and sometimes we buy a variety but can't plant it that season. We're programmers, not farmers, and we have very little space to grow tomatoes.
+
+So, she accumulated several thousand packets of seeds, and we need to track them on our computer. A spreadsheet is impossible: the plant photos alone take up over 10 GB. A spreadsheet would do the job, but it would be incredibly slow. So my wife came up with a program to track these thousands of packets.
+
+And I need to practice with the database (**Apache Derby**), try out a development new type of user interface (**Tabbed document interface**), a new UI development kit (**JavaFX**), and figure out how to create such a program in a few hundred lines. At the same time, the conciseness of the code must not compromise the user interface and the necessary functionality.
 
 More details here: [SeedKeeper](https://github.com/weekend-game/seedkeeper).
 
