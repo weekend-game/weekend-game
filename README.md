@@ -72,4 +72,16 @@ And I need to practice with the database (**Apache Derby**), try out a developme
 
 More details here: [SeedKeeper](https://github.com/weekend-game/seedkeeper).
 
+### Warehouse accounting ([WeekendWarehouse](https://github.com/weekend-game/weekendwarehouse))
+
+Java, Swing (Multiple-document interface), DBMS [Oracle](https://www.oracle.com/database/), DBMS [PostgreSQL](https://www.postgresql.org/), DBMS [Apache Derby](https://db.apache.org/derby/)
+
+And also: [Docker desktop](https://www.docker.com/products/docker-desktop/), [SQuirreL SQL](https://squirrel-sql.sourceforge.io/), [SQL Developer](https://www.oracle.com/database/sqldeveloper/technologies/download/)
+
+Now I'll practice developing a corporate accounting program. The topic is very broad, and even with significant simplifications, creating such a system in a few days seems impossible. But I'll start with warehouse control.
+
+You might ask, "Why so many databases?" I'm glad you asked. Multiple DBMSs are needed to practice working with different DBMSs. Yes, theoretically, there are SQL standards, and everything should work the same. But in practice, not everything needed for working with data is standardized. And I'd like to try solving the problems posed by DBMS vendors. Oracle and PostgreSQL are often used for corporate accounting systems, and these are the ones I plan to use. And as for Derby... While developing SeedKeeper, I became quite familiar with the capabilities of this DBMS. So why to lose that knowledge? I want my program to be able to work with Derby, among other things.
+
+More details here: [WeekendWarehouse](https://github.com/weekend-game/weekendwarehouse).
+
 ### To be continued...
