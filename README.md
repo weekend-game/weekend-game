@@ -16,4 +16,14 @@ This is exactly what this program does. But it also allows you to understand how
 
 More details here: [BankViewer](https://github.com/weekend-game/bankviewer).
 
+### [Simple library](https://github.com/weekend-game/simplelibrary)
+
+Java, Swing
+
+While creating BankViewer, it became clear that some of the classes needed for this program would be needed in many other similar programs. It would always be necessary to display a message to the user, provide a status bar, localize the application, save some settings, work with Look and Feel, remember recently opened files, have predefined actions for frequently used actions, and be able to quickly and easily place input fields in windows. All of this was concentrated in the game.weekend.simplelibrary package during the development of BankViewer.
+
+Here, I'll extract this package from BankViewer into a separate module for use in future projects.
+
+More details here: [SimpleLibrary](https://github.com/weekend-game/simplelibrary).
+
 ### To be continued...
