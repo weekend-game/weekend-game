@@ -26,4 +26,14 @@ Here, I'll extract this package from BankViewer into a separate module for use i
 
 More details here: [SimpleLibrary](https://github.com/weekend-game/simplelibrary).
 
+### [Text editor](https://github.com/weekend-game/texteditor)
+
+Java, Swing (Single Document Interface), [BankViewer](https://github.com/weekend-game/bankviewer) as an application template
+
+So, I created a bank statement viewer. You can create viewers for many other things using a similar approach. But these are just viewers. And if you try to create an editor, you will find that you have to solve many problems. Now I am not creating some unusual editor, I am not creating an editor better than others, I am not trying to compete with anyone. I am researching what problems need to be solved and looking for solutions.
+
+This is a regular text editor that allows you to edit simple text files. It has retained all the features already available in BankViewer. But it not only opens existing files, but also creates new ones, saves edited text, ensures that you do not accidentally lose the result of editing, logically manages the activity of the Edit menu items. It can not only search for text, but also replace one text with another. It allows you to set a convenient font size, use a monospace font if it is convenient in any situation.
+
+More information here: [TextEditor](https://github.com/weekend-game/texteditor).
+
 ### To be continued...
