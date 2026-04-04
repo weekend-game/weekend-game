@@ -28,7 +28,7 @@ More details here: [SimpleLibrary](https://github.com/weekend-game/simplelibrary
 
 ### [Text editor](https://github.com/weekend-game/texteditor)
 
-Java, Swing (Single Document Interface), [BankViewer](https://github.com/weekend-game/bankviewer) as an application template
+Java, Swing (Single Document Interface), [SimpleLibrary](https://github.com/weekend-game/simplelibrary), [BankViewer](https://github.com/weekend-game/bankviewer) as an application template
 
 So, I created a bank statement viewer. You can create viewers for many other things using a similar approach. But these are just viewers. And if you try to create an editor, you will find that you have to solve many problems. Now I am not creating some unusual editor, I am not creating an editor better than others, I am not trying to compete with anyone. I am researching what problems need to be solved and looking for solutions.
 
