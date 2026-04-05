@@ -36,4 +36,14 @@ This is a regular text editor that allows you to edit simple text files. It has 
 
 More information here: [TextEditor](https://github.com/weekend-game/texteditor).
 
+### [Editor library](https://github.com/weekend-game/editorlibrary)
+
+Java, Swing, [SimpleLibrary](https://github.com/weekend-game/simplelibrary)
+
+Various projects may require the use of a simple text editor as part of the project. A text editor should not only be able to work with text, but also open and save files, search within text, replace words (substrings) with others. This is precisely what the game.weekend.editorlibrary package focused on during the development of TextEditor.
+
+Here, I'll extract this package from TextEditor into a separate module for use in future projects.
+
+More details here: [EditorLibrary](https://github.com/weekend-game/editorlibrary).
+
 ### To be continued...
