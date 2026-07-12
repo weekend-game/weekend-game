@@ -25,4 +25,16 @@ Here, I'll extract this package from BankViewer into a separate module for use i
 
 More details here: [SimpleLibrary](https://github.com/weekend-game/simplelibrary).
 
+### Content Management System ([CMS](https://github.com/weekend-game/cms))
+
+Java, Swing, [SimpleLibrary](https://github.com/weekend-game/simplelibrary)
+
+New project ideas emerge, and every project needs to have its own page on the [website](https://weekend-game.github.io/index.htm). However, adding just one new project requires making changes to all the website's pages. Then, you have to spend a long time checking what you've created. Sure, it's possible, but why?
+
+I am creating my own CMS (content management system) for my website. Problem solved! Sure, I could use something ready-made, but what? And how long would it take me to master it? Would I be able to create the website exactly as I envisioned, or just something like it? I think Java is the best CMS in the world :-)
+
+Furthermore, building this CMS allows me to practice working with Java files and creating a user interface using Swing, specifically: working with text fields, radio buttons, combo boxes, and list editing.
+
+More details here: [CMS](https://github.com/weekend-game/cms).
+
 ### To be continued...
