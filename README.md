@@ -1,7 +1,7 @@
 <sub>All brands, companies and trademarks mentioned are the property of their respective owners.<br>
 English is not my native language. Sorry for the mistakes.</sub>
 
-### Hello!
+## Hello!
 
 My name is **Yury**. I am a software developer. In my work I use very exotic programming languages, DBMS and other technologies related to programming. Well, that's just how it turned out. I'd like to practice something I don't normally encounter. To do this, I'll be completing a series of projects. A repository will be created for each project. I'll post a full description of each on [https://weekend-game.github.io](https://weekend-game.github.io/). You can see how it all developed in the [blog](https://weekend-game.github.io/blog.htm).
 
@@ -78,5 +78,17 @@ Since I've created a [programming language](https://github.com/weekend-game/inte
 It's a small text-based game. A knight walks through an aspen forest. He meets different situations and must decide how to act in each one. The game has no music or graphics. The current language implementation simply doesn't allow for such features. However, nothing prevents them from being added. If Interpreter is Hello World for interpreter developers, then AspenForest is Hello World for text-based games, plus an attempt at using a new (actually very old) language.
 
 More information here: [AspenForest](https://github.com/weekend-game/aspenforest).
+
+## Autumn has come
+
+```
+Now summer is gone
+And might never have been.
+In the sunshine it's warm,
+But there has to be more.
+```
+(с) Arseny Tarkovsky (translated by Kitty Hunter-Blair)
+
+Yes, yes! There has to be something else. And that something will be working with databases. All I did this summer were simple programs, each requiring just a couple of days of programming. Well, implementing the interpreter took four days. But still not enough. Now I'll move on to more complex tasks.
 
 ### To be continued...
