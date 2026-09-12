@@ -91,4 +91,18 @@ But there has to be more.
 
 Yes, yes! There has to be something else. And that something will be working with databases. All I did this summer were simple programs, each requiring just a couple of days of programming. Well, implementing the interpreter took four days. But still not enough. Now I'll move on to more complex tasks.
 
-### To be continued...
+### Seeds keeper ([SeedsKeeper](https://github.com/weekend-game/seedskeeper))
+
+Java, [JavaFX](https://openjfx.io/) (Tabbed document interface), DBMS [Apache Derby](https://db.apache.org/derby/)
+
+Thanks to Swing, but I'll try JavaFX now. It's a six of one, half a dozen of the other, I suppose, but it's interesting to try. There will be a lot of data... And anyway, it's time to practice working with different DBMSs.
+
+My wife gave me the idea for this app. She grows tomatoes, peppers, and other plants as a hobby. She buys packets of seeds and grows a few plants of each variety. Often, she has leftover seeds, and sometimes we buy a variety but can't plant it that season. We're programmers, not farmers, and we have very little space to grow tomatoes.
+
+So, she accumulated several thousand packets of seeds, and we need to track them on our computer. A spreadsheet is impossible: the plant photos alone take up over 10 GB. A spreadsheet would do the job, but it would be incredibly slow. So my wife came up with a program to track these thousands of packets.
+
+And I need to practice with the database (**Apache Derby**), try out a development new type of user interface (**Tabbed document interface**), a new UI development kit (**JavaFX**), and figure out how to create such a program in a few thousand lines. At the same time, the conciseness of the code must not compromise the user interface and the necessary functionality.
+
+More details here: [SeedsKeeper](https://github.com/weekend-game/seedskeeper).
+
+## To be continued...
